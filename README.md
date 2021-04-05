@@ -2,11 +2,11 @@ Doctors>name>{
   name
   hospital
   occupation
-  pations treated
+  patient treated
 }
 
 Consultation>{
-  Patiant
+  patient
   doctors
   status
   chat
